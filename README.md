@@ -14,3 +14,12 @@ Original socket.io library: https://github.com/washo4evr/Socket.io-v1.x-Library
 client.on() method added in SocketIOClient to listen events from the NodeJS chat server
 
 Example NodeJS chat server here: https://github.com/cesarazocar/chatSocketNodeJS
+
+
+
+<a href="">
+  <img src="https://raw.githubusercontent.com/cesarazocar/AndroidNodeJSAuth/master/Login%20preview.png" width="350" title="Register" alt="Android App Register">
+</a>
+
+
+Socket io server <a href="https://github.com/cesarazocar/chatSocketNodeJS">here</a>
