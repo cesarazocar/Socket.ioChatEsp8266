@@ -13,7 +13,8 @@ Original socket.io library: https://github.com/washo4evr/Socket.io-v1.x-Library
 
 client.on() method added in SocketIOClient to listen events from the NodeJS chat server
 
-Example NodeJS chat server here: https://github.com/cesarazocar/chatSocketNodeJS
+
+<img src="https://github.com/cesarazocar/Socket.ioChatEsp8266/blob/master/output%20serial%20example.png" width="350" title="Esp8266 Socket.io example" alt="Esp8266 Socket.io example">
 
 
-Socket io server <a href="https://github.com/cesarazocar/chatSocketNodeJS">here</a>
+Socket io NodeJS chat server <a href="https://github.com/cesarazocar/chatSocketNodeJS">here</a>
